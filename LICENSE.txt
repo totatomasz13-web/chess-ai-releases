@@ -1,0 +1,48 @@
+CHESS.AI — LICENCJA WŁASNOŚCIOWA
+Copyright (c) 2026 autor projektu Chess.ai (GitHub: totatomasz13-web).
+Wszelkie prawa zastrzeżone.
+
+1. Zakres
+Niniejsza licencja dotyczy autorskiego kodu, interfejsu, grafik,
+dokumentacji i aplikacji Chess.ai. Samo udostępnienie plików do pobrania
+nie przenosi praw autorskich ani nie oznacza otwartej licencji.
+
+2. Dozwolone używanie aplikacji
+Autor udziela użytkownikowi niewyłącznego, nieprzenoszalnego zezwolenia
+na pobranie z oficjalnego kanału, instalację i osobiste używanie aplikacji
+oraz sporządzanie kopii koniecznych do tego używania i własnej kopii
+zapasowej. Inne zastosowania wymagają pisemnej zgody autora.
+
+3. Zastrzeżenia praw
+Bez uprzedniej pisemnej zgody autora zabronione jest kopiowanie poza
+zakresem punktu 2, rozpowszechnianie, ponowne publikowanie, udostępnianie
+instalatorów na innych stronach, sprzedaż, sublicencjonowanie, wynajem,
+przekazywanie kodu źródłowego, modyfikowanie, tworzenie opracowań oraz
+usuwanie oznaczeń autora i licencji. Dekompilacja, dezasemblacja i inne
+odtwarzanie kodu są zabronione w zakresie dopuszczalnym przez prawo.
+Zamiast kopiować pliki, można udostępniać link do oficjalnej strony.
+
+4. Dane i modele użytkownika
+Autor nie nabywa na podstawie tej licencji praw do własnych danych,
+partii ani modeli wytrenowanych przez użytkownika. Użytkownik może
+eksportować i przenosić własne modele. Prawa osób trzecich do danych
+wejściowych pozostają w mocy.
+
+5. Składniki osób trzecich
+Biblioteki, środowiska i inne składniki osób trzecich zachowują własne
+licencje. Niniejszy dokument nie ogranicza praw przyznanych przez te
+licencje. Informacje i teksty licencji znajdują się w pliku
+third-party-notices.txt oraz w dołączonych składnikach.
+
+6. Gwarancje i odpowiedzialność
+Aplikacja jest udostępniana w stanie istniejącym, bez obietnicy
+określonej siły szachowej, wyników treningu lub nieprzerwanego działania.
+Użytkownik powinien wykonywać kopie własnych modeli. Ograniczenia
+odpowiedzialności obowiązują wyłącznie w zakresie dozwolonym przez prawo.
+
+7. Bezwzględnie obowiązujące przepisy
+Niniejsza licencja nie wyłącza uprawnień, których nie można wyłączyć
+na podstawie bezwzględnie obowiązujących przepisów, w tym praw konsumenta
+oraz ustawowych wyjątków od ochrony praw autorskich.
+
+Kontakt w sprawie dodatkowej zgody: konto GitHub totatomasz13-web.
